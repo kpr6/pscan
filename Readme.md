@@ -1,4 +1,5 @@
 # nmap rip off
+![](https://github.com/kpr6/pscan/workflows/test/badge.svg)
 
 ### Usage:
 ```
